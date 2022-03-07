@@ -1,1 +1,3 @@
-<iframe src="https://scratch.mit.edu/projects/655257977/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+My first project using Scratch WK0 CS50
+
+https://scratch.mit.edu/projects/655257977
